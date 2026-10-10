@@ -1,0 +1,20 @@
+{
+  "name": "voxai-studio",
+  "version": "1.0.0",
+  "description": "VoxAI Studio - Professional AI Text-to-Speech Web Application powered by ElevenLabs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "text-to-speech",
+    "tts",
+    "elevenlabs",
+    "voice-ai",
+    "audio-synthesis",
+    "speech-synthesis"
+  ],
+  "author": "VoxAI Team",
+  "license": "MIT"
+}
